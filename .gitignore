@@ -21,3 +21,34 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*.RData
+*.Rhistory
+.Rproj.user/21E0A21A/console06/INDEX001
+*.xml
+*.pper
+.Rproj.user/21E0A21A/saved_source_markers
+*.gdbtable
+*.gdbtablx
+*.atx
+*.gdbindexes
+*.freelist
+*.spx
+*.dat
+*.cfs
+*.adf
+.Rproj.user/21E0A21A/sources/per/t/57721E4A
+*.lock
+GeoSettings.gdb/gdb
+*.txt
+*.nit
+*.jpg
+*.tbx
+*.aprx
+*.tif
+*.tfw
+*.ovr
+*.pdf
+*.docx
+*.Rproj
+
+*.ini
